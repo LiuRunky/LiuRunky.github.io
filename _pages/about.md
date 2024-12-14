@@ -80,4 +80,4 @@ Prior to this, I obtained my B.E. degree in Computer Science and Engineering fro
 - *2019.10* National scholarship for undergraduate students.
 
 # 💻 Internship
-- *2024.05 - 2024.09*, Tencent, Shanghai.
+- *2024.05 - 2024.09*, Tencent, Shanghai. Working on large generative multimodal models.
