@@ -17,19 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 Hi, I am Langqi Liu. 
-Welcome to my personal page. 
+Welcome to my homepage! 
 I like coding, drawing, and various types of sports. 
-I am always passionate to produce something creative yet logical. 
+I am always passionate about producing something creative yet logical. 
 
 I am currently pursuing an M.Sc. degree in Artificial Intelligence at Nanjing University, where I am fortunate to be advised by Prof. [Lijun Zhang](https://ai.nju.edu.cn/zlj/index.htm). 
 My research focuses on designing optimization algorithms with provable theoretical guarantees. 
 Prior to this, I obtained my B.E. degree in Computer Science and Engineering from Southeast University in 2022. 
 
+Recently, I have been excited about the mechanism of Large Language Models (LLMs) and their applications. 
+I am always happy to collaborate on LLM-related projects. 
+If you are interested in my background and skills, feel free to [send an email](mailto:liurunky@gmail.com) and discuss how I can contribute to your objective.
+
 
 
 # 📖 Educations
-- *2022.09 - 2025.06 (now)*, Nanjing University, Artificial Intelligence, M.Sc. candidate
-- *2018.09 - 2022.06*, Southeast University, Computer Science and Engineering, B.E.
+- *2022.09 - 2025.06 (now)*, [Nanjing University](https://www.nju.edu.cn/), Artificial Intelligence, M.Sc. candidate.
+- *2018.09 - 2022.06*, [Southeast University](https://www.seu.edu.cn/), Computer Science and Engineering, B.E.
 
 {% comment %}
 # 🔥 News 
@@ -74,10 +78,10 @@ Prior to this, I obtained my B.E. degree in Computer Science and Engineering fro
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** 
 {% endcomment %}
 
-# 🎖 Honors and Awards
-- *2024.10* Bosch scholarship.
-- *2021.05* 2020-2021 International Collegiate Programming Contest (ICPC) world finalist, team Southeast U: Kokoronashi. 
-- *2019.10* National scholarship for undergraduate students.
+# 🏅 Honors and Awards
+- *2024.10*, Bosch scholarship.
+- *2021.05*, 2020-2021 International Collegiate Programming Contest (ICPC) world finalist, team Southeast U: Kokoronashi. 
+- *2019.10*, National scholarship for undergraduate students.
 
 # 💻 Internship
 - *2024.05 - 2024.09*, Tencent, Shanghai. Working on large generative multimodal models.
