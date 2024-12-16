@@ -16,6 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# About Me
 Hi, I am Langqi Liu. 
 Welcome to my homepage! 
 I like coding, drawing, and various types of sports. 
@@ -85,3 +86,9 @@ If you are interested in my background and skills, feel free to [send an email](
 
 # 💻 Internship
 - *2024.05 - 2024.09*, Tencent, Shanghai. Working on large generative multimodal models.
+
+# 👾 Hobbies
+- Drawing: You can find my artworks from [LiuRunkY@pixiv](https://www.pixiv.net/users/16552180) (SAI2 + WACOM CTL-472).
+- Sports: Running, table tenis, basketball, tenis, swimming, football... Current PBs for running: 12'16'' (3km), 21'59'' (5km), 54'14'' (1/4-Marathon).
+- Conpetitive Programming (AFK): <font color="#FF8C00">[LiuRunkY](https://codeforces.com/profile/LiuRunkY)</font> (Codeforces). Some tutorials (in Chinese) for algorithms and data structures available in [LiuRunky@cnblogs](https://www.cnblogs.com/LiuRunky).
+- Rhythm Games (AFK): [LiuRunky](https://osu.ppy.sh/users/6172732) (Osu!Mania), 4K 10dan, 7K 1dan.
