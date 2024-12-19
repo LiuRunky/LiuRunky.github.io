@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# About Me
+# 👋 About Me
 Hi, I am Langqi Liu. 
 Welcome to my homepage! 
 I like coding, drawing, and various types of sports. 
@@ -27,7 +27,7 @@ My research focuses on designing optimization algorithms with provable theoretic
 Prior to this, I obtained my B.E. degree in Computer Science and Engineering from Southeast University in 2022. 
 
 Recently, I have been excited about the mechanism of Large Language Models (LLMs) and their applications. 
-I am always happy to collaborate on LLM-related projects. 
+I am always happy to collaborate on relevant projects. 
 If you are interested in my background and skills, feel free to [send an email](mailto:liurunky@gmail.com) and discuss how I can contribute to your objective.
 
 
@@ -84,11 +84,14 @@ If you are interested in my background and skills, feel free to [send an email](
 - *2021.05*, 2020-2021 International Collegiate Programming Contest (ICPC) world finalist, team Southeast U: Kokoronashi. 
 - *2019.10*, National scholarship for undergraduate students.
 
+# 💬 Academic Service
+- *Reviwer*: ICLR'2025
+
 # 💻 Internship
 - *2024.05 - 2024.09*, Tencent, Shanghai. Working on large generative multimodal models.
 
 # 👾 Hobbies
 - Drawing: You can find my artworks from [LiuRunkY@pixiv](https://www.pixiv.net/users/16552180) (SAI2 + WACOM CTL-472).
 - Sports: Running, table tenis, basketball, tenis, swimming, football... Current PBs for running: 12'16'' (3km), 21'59'' (5km), 54'14'' (1/4-Marathon).
-- Competitive Programming (AFK): [<font color="#FF8C00">LiuRunkY</font>](https://codeforces.com/profile/LiuRunkY) (Codeforces), some tutorials (in Chinese) for algorithms and data structures available in [LiuRunky@cnblogs](https://www.cnblogs.com/LiuRunky).
+- Competitive Programming (Retired): [<font color="#FF8C00">LiuRunkY</font>](https://codeforces.com/profile/LiuRunkY) (Codeforces), some tutorials (in Chinese) for algorithms and data structures available in [LiuRunky@cnblogs](https://www.cnblogs.com/LiuRunky).
 - Rhythm Game (AFK): [LiuRunky](https://osu.ppy.sh/users/6172732) (Osu!Mania), 4K 10dan, 7K 1dan.
