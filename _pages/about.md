@@ -85,7 +85,7 @@ If you are interested in my background and skills, feel free to [send an email](
 - *2019.10*, National scholarship for undergraduate students.
 
 # 💬 Academic Service
-- *Reviwer*: ICLR'2025
+- Reviwer: ICLR'2025
 
 # 💻 Internship
 - *2024.05 - 2024.09*, Tencent, Shanghai. Working on large generative multimodal models.
