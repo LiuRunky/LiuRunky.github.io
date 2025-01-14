@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👋 About Me
-Hi, I am Langqi Liu. 
+Hi, I am Langqi Liu (刘朗麒). 
 Welcome to my homepage! 
 I like coding, drawing, and various types of sports. 
 I am always passionate about producing something creative yet logical. 
@@ -35,6 +35,7 @@ If you are interested in my background and skills, feel free to [send an email](
 # 📖 Educations
 - *2022.09 - 2025.06 (now)*, [Nanjing University](https://www.nju.edu.cn/), Artificial Intelligence, M.Sc. candidate.
 - *2018.09 - 2022.06*, [Southeast University](https://www.seu.edu.cn/), Computer Science and Engineering, B.E.
+- *2012.09 - 2018.06*, [Nanjing Foreign Language School](http://www.nfls.com.cn/), Middle School.
 
 {% comment %}
 # 🔥 News 
@@ -81,7 +82,7 @@ If you are interested in my background and skills, feel free to [send an email](
 
 # 🏅 Honors and Awards
 - *2024.10*, Bosch scholarship.
-- *2021.05*, 2020-2021 International Collegiate Programming Contest (ICPC) world finalist, team Southeast U: Kokoronashi. 
+- *2021.05*, 2020-2021 International Collegiate Programming Contest (ICPC) world finalist, team Southeast U: Kokoronashi (4th in Yinchuan, 7th in Shenyang). 
 - *2019.10*, National scholarship for undergraduate students.
 
 # 💬 Academic Service
