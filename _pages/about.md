@@ -26,8 +26,9 @@ I am currently pursuing an M.Sc. degree in Artificial Intelligence at Nanjing Un
 My research focuses on designing optimization algorithms with provable theoretical guarantees. 
 Prior to this, I obtained my B.E. degree in Computer Science and Engineering from Southeast University in 2022. 
 
-Recently, I have been excited about the mechanism of Large Language Models (LLMs) and their applications. 
-I am always happy to collaborate on relevant projects. 
+Recently, I have been excited about the mechanism of Large Language Models (LLMs) and their applications.
+At present, I am also working with Prof. [Zhijiang Guo](https://cartus.github.io/) on relevent topics, and is scheduled to visit HKUST(GZ) as a research assistant since 2025 Fall.
+Meanwhile, I am always open to collaborations on LLM-based projects. 
 If you are interested in my background and skills, feel free to [send an email](mailto:liurunky@gmail.com) and discuss how I can contribute to your objective.
 
 
