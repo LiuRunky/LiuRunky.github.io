@@ -28,7 +28,7 @@ Prior to this, I obtained my B.E. degree in Computer Science and Engineering fro
 
 Recently, I have been excited about the mechanism of Large Language Models (LLMs) and their applications.
 At present, I am also working with Prof. [Zhijiang Guo](https://cartus.github.io/) on relevent topics, and is scheduled to visit HKUST(GZ) as a research assistant since 2025 Fall.
-Meanwhile, I am always open to collaborations on LLM-based projects. 
+Meanwhile, I stay open to collaborations on LLM-based projects. 
 If you are interested in my background and skills, feel free to [send an email](mailto:liurunky@gmail.com) and discuss how I can contribute to your objective.
 
 
