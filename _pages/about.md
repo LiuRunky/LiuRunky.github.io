@@ -27,9 +27,9 @@ My research focuses on designing optimization algorithms with provable theoretic
 Prior to this, I obtained my B.E. degree in Computer Science and Engineering from Southeast University in 2022. 
 
 Recently, I have been excited about the mechanism of Large Language Models (LLMs) and their applications.
-At present, I am also working with Prof. [Zhijiang Guo](https://cartus.github.io/) on relevent topics, and is scheduled to visit HKUST(GZ) as a research assistant since 2025 Fall.
+At present, I am also working with Prof. [Zhijiang Guo](https://cartus.github.io/) on relevent topics, and is scheduled to visit Lark@HKUST(GZ) as a research assistant since 2025 Fall.
 Meanwhile, I stay open to collaborations on LLM-based projects. 
-If you are interested in my background and skills, feel free to [send an email](mailto:liurunky@gmail.com) and discuss how I can contribute to your objective.
+If you are interested in my background or skills, feel free to [send an email](mailto:liurunky@gmail.com) and discuss how I can contribute to your objective.
 
 
 
@@ -92,7 +92,7 @@ If you are interested in my background and skills, feel free to [send an email](
 - Reviewer: ICLR'2025
 
 # 💻 Internship
-- *2024.05 - 2024.09*, Tencent, Shanghai. Working on large multimodal generative models.
+- *2024.05 - 2024.09*, Tencent, Shanghai. Working on infrastructure of large multimodal generative models.
 
 # 👾 Hobbies
 - Drawing: You can find my artworks from [LiuRunkY@pixiv](https://www.pixiv.net/users/16552180) (SAI2 + WACOM CTL-472).
