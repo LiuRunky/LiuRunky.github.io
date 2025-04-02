@@ -96,6 +96,6 @@ If you are interested in my background or skills, feel free to [send an email](m
 
 # 👾 Hobbies
 - Drawing: You can find my artworks from [LiuRunkY@pixiv](https://www.pixiv.net/users/16552180) (SAI2 + WACOM CTL-472).
-- Sports: Running, table tenis, basketball, tenis, swimming, football... Current PBs for running: 13'50'' (3.5km), 20'56'' (5km), 49'07'' (1/4-Marathon).
+- Sports: Running, table tenis, basketball, tenis, swimming, football... Current PBs for running: 13'50'' (3.5km), 20'42'' (5km), 49'07'' (1/4-Marathon).
 - Competitive Programming (Retired): [<font color="#FF8C00">LiuRunkY</font>](https://codeforces.com/profile/LiuRunkY) (Codeforces), some tutorials (in Chinese) for algorithms and data structures available in [LiuRunky@cnblogs](https://www.cnblogs.com/LiuRunky).
 - Rhythm Game (AFK): [LiuRunky](https://osu.ppy.sh/users/6172732) (Osu!Mania), 4K 10dan, 7K 1dan.
