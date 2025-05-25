@@ -84,6 +84,7 @@ If you are interested in my background or skills, feel free to [send an email](m
 {% endcomment %}
 
 # 🏅 Honors and Awards
+- *2025.04*, Outstanding graduate of Nanjing University.
 - *2024.10*, Bosch scholarship.
 - *2021.05*, 2020-2021 International Collegiate Programming Contest (ICPC) world finalist, team Southeast U: Kokoronashi (4th in Yinchuan, 7th in Shenyang). 
 - *2019.10*, National scholarship for undergraduate students.
