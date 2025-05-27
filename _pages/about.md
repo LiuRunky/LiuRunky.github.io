@@ -40,6 +40,10 @@ If you are interested in my background or skills, feel free to [send an email](m
 - *2018.09 - 2022.06*, [Southeast University](https://www.seu.edu.cn/), Computer Science and Engineering, B.E.
 - *2012.09 - 2018.06*, [Nanjing Foreign Language School](http://www.nfls.com.cn/), middle & high school.
 
+# 💻 Experiences
+- *2025.02 - present*, Research Internship, working with Prof. [Zhijiang Guo](https://cartus.github.io/) from HKUST(GZ).
+- *2024.05 - 2024.09*, Internship for Algorithm Engineer, Tencent Shanghai. Working on infrastructure of large multimodal generative models.
+
 {% comment %}
 # 🔥 News 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -92,11 +96,9 @@ If you are interested in my background or skills, feel free to [send an email](m
 # 💬 Academic Service
 - Reviewer: ICLR'2025
 
-# 💻 Internship
-- *2024.05 - 2024.09*, Tencent, Shanghai. Working on infrastructure of large multimodal generative models.
-
 # 👾 Hobbies
 - Drawing: You can find my artworks from [LiuRunkY@pixiv](https://www.pixiv.net/users/16552180) (SAI2 + WACOM CTL-472).
 - Sports: Running, table tenis, basketball, tenis, swimming, football... Current PBs for running: 13'50'' (3.5km), 19'57'' (5km), 49'07'' (1/4-Marathon).
+- Go Chess: Amateur 3dan (in 2009), however I rediscovered the joy of it recently.
 - Competitive Programming (Retired): [<font color="#FF8C00">LiuRunkY</font>](https://codeforces.com/profile/LiuRunkY) (Codeforces), some tutorials (in Chinese) for algorithms and data structures available in [LiuRunky@cnblogs](https://www.cnblogs.com/LiuRunky).
-- Rhythm Game (AFK): [LiuRunky](https://osu.ppy.sh/users/6172732) (Osu!Mania), 4K 10dan, 7K 1dan.
+- Rhythm Game (AFK): [LiuRunky](https://osu.ppy.sh/users/6172732) (Osu!Mania), 4K 10dan (in 2020), 7K 1dan (in 2023).
