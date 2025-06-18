@@ -22,13 +22,15 @@ Welcome to my homepage!
 I like coding, drawing, and various types of sports. 
 I am always passionate about producing something creative yet logical. 
 
-I am currently pursuing an M.Sc. degree in Artificial Intelligence at Nanjing University, where I am fortunate to be advised by Prof. [Lijun Zhang](https://ai.nju.edu.cn/zlj/index.htm). 
-My research focuses on designing optimization algorithms with provable theoretical guarantees. 
+I have been excited about the mechanism of Large Language Models (LLMs) and their applications.
+Specifically, I am interested in LLM for code generation, which involves intensive reasoning, planning and translation between natural language and programming code.
+At present, I am working with Prof. [Zhijiang Guo](https://cartus.github.io/) on relevant topics, and is scheduled to visit Lark@HKUST(GZ) as a research assistant since 2025 Fall.
+
+I obtained my M.Sc. degree in Artificial Intelligence at Nanjing University, where I were fortunate to be advised by Prof. [Lijun Zhang](https://ai.nju.edu.cn/zlj/index.htm) from the [LAMDA group](https://www.lamda.nju.edu.cn/MainPage.ashx). 
+My research focused on designing optimization algorithms with provable theoretical guarantees. 
 Prior to this, I obtained my B.E. degree in Computer Science and Engineering from Southeast University in 2022. 
 
-Recently, I have been excited about the mechanism of Large Language Models (LLMs) and their applications.
-At present, I am also working with Prof. [Zhijiang Guo](https://cartus.github.io/) on relevent topics, and is scheduled to visit Lark@HKUST(GZ) as a research assistant since 2025 Fall.
-Meanwhile, I stay open to collaborations on LLM-based projects. 
+I stay open to collaborations on LLM-based projects. 
 If you are interested in my background or skills, feel free to [send an email](mailto:liurunky@gmail.com) and discuss how I can contribute to your objective.
 
 
@@ -36,13 +38,13 @@ If you are interested in my background or skills, feel free to [send an email](m
 
 
 # 📖 Educations
-- *2022.09 - 2025.06 (now)*, [Nanjing University](https://www.nju.edu.cn/), Artificial Intelligence, M.Sc. candidate.
+- *2022.09 - 2025.06*, [Nanjing University](https://www.nju.edu.cn/), Artificial Intelligence, M.Sc.
 - *2018.09 - 2022.06*, [Southeast University](https://www.seu.edu.cn/), Computer Science and Engineering, B.E.
 - *2012.09 - 2018.06*, [Nanjing Foreign Language School](http://www.nfls.com.cn/), middle & high school.
 
 # 💻 Experiences
 - *2025.02 - present*, Research Internship, working with Prof. [Zhijiang Guo](https://cartus.github.io/) from HKUST(GZ).
-- *2024.05 - 2024.09*, Internship for Algorithm Engineer, Tencent Shanghai. Working on infrastructure of large multimodal generative models.
+- *2024.05 - 2024.09*, Internship for Algorithm Engineer, Tencent Shanghai. Working on parallel speedup of text-to-video generative models.
 
 {% comment %}
 # 🔥 News 
@@ -91,14 +93,14 @@ If you are interested in my background or skills, feel free to [send an email](m
 - *2025.04*, Outstanding graduate of Nanjing University.
 - *2024.10*, Bosch scholarship.
 - *2021.05*, 2020-2021 International Collegiate Programming Contest (ICPC) world finalist, team Southeast U: Kokoronashi (4th in Yinchuan, 7th in Shenyang). 
-- *2019.10*, National scholarship for undergraduate students.
+- *2019.10*, National scholarship.
 
 # 💬 Academic Service
 - Reviewer: ICLR'2025
 
 # 👾 Hobbies
 - Drawing: You can find my artworks from [LiuRunkY@pixiv](https://www.pixiv.net/users/16552180) (SAI2 + WACOM CTL-472).
-- Sports: Running, table tenis, basketball, tenis, swimming, football... Current PBs for running: 13'50'' (3.5km), 19'57'' (5km), 49'07'' (1/4-Marathon).
-- Go Chess: Amateur 3dan (in 2009), however I rediscovered the joy of it recently.
+- Sports: Running, table tenis, basketball, tenis, swimming, football... Current PBs for running: 11'33'' (3km), 19'57'' (5km), 49'07'' (1/4-Marathon). My current goal is to complete a half-Marathon race before 2026.
+- Go Chess: Amateur 3Dan (in 2009), however I rediscovered the joy of it recently. 
 - Competitive Programming (Retired): [<font color="#FF8C00">LiuRunkY</font>](https://codeforces.com/profile/LiuRunkY) (Codeforces), some tutorials (in Chinese) for algorithms and data structures available in [LiuRunky@cnblogs](https://www.cnblogs.com/LiuRunky).
-- Rhythm Game (AFK): [LiuRunky](https://osu.ppy.sh/users/6172732) (Osu!Mania), 4K 10dan (in 2020), 7K 1dan (in 2023).
+- Rhythm Game (AFK): [LiuRunky](https://osu.ppy.sh/users/6172732) (Osu!Mania), 4K 10Dan (in 2020), 7K 1Dan (in 2023). My favorite music composer is ginkiha.
