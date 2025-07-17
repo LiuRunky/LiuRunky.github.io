@@ -43,7 +43,7 @@ If you are interested in my background or skills, feel free to [send an email](m
 - *2012.09 - 2018.06*, [Nanjing Foreign Language School](http://www.nfls.com.cn/), middle & high school.
 
 # 💻 Experiences
-- *2025.02 - present*, Research Assistant, working with Prof. [Zhijiang Guo](https://cartus.github.io/) from [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/).
+- *2025.02 - present*, Research Internship/Assistant, working with Prof. [Zhijiang Guo](https://cartus.github.io/) from [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/).
 - *2024.05 - 2024.09*, Internship for Algorithm Engineer, Tencent Shanghai. Working on parallel speedup of text-to-video generative models.
 
 {% comment %}
