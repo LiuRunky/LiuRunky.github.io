@@ -22,15 +22,15 @@ Welcome to my homepage!
 I like coding, drawing, and various types of sports. 
 I am always passionate about producing something creative yet logical. 
 
+At present, I am visiting LARK@HKUST(GZ) as a research assistant, working with Prof. [Zhijiang Guo](https://cartus.github.io/).
 I have been excited about the mechanism of Large Language Models (LLMs) and their applications.
 Specifically, I am interested in LLM for code generation, which involves intensive reasoning, planning and translation between natural language and programming code.
-At present, I am working with Prof. [Zhijiang Guo](https://cartus.github.io/) on relevant topics, and is scheduled to visit Lark@HKUST(GZ) as a research assistant since 2025 Fall.
 
 I obtained my M.Sc. degree in Artificial Intelligence at Nanjing University, where I were fortunate to be advised by Prof. [Lijun Zhang](https://ai.nju.edu.cn/zlj/index.htm) from the [LAMDA group](https://www.lamda.nju.edu.cn/MainPage.ashx). 
 My research focused on designing optimization algorithms with provable theoretical guarantees. 
 Prior to this, I obtained my B.E. degree in Computer Science and Engineering from Southeast University in 2022. 
 
-I stay open to collaborations on LLM-based projects. 
+I stay open to connections and collaborations. 
 If you are interested in my background or skills, feel free to [send an email](mailto:liurunky@gmail.com) and discuss how I can contribute to your objective.
 
 
@@ -43,7 +43,7 @@ If you are interested in my background or skills, feel free to [send an email](m
 - *2012.09 - 2018.06*, [Nanjing Foreign Language School](http://www.nfls.com.cn/), middle & high school.
 
 # 💻 Experiences
-- *2025.02 - present*, Research Internship, working with Prof. [Zhijiang Guo](https://cartus.github.io/) from HKUST(GZ).
+- *2025.02 - present*, Research Assistant, working with Prof. [Zhijiang Guo](https://cartus.github.io/) from [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/).
 - *2024.05 - 2024.09*, Internship for Algorithm Engineer, Tencent Shanghai. Working on parallel speedup of text-to-video generative models.
 
 {% comment %}
