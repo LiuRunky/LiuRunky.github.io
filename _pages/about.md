@@ -104,3 +104,4 @@ If you are interested in my background or skills, feel free to [send an email](m
 - Go Chess: Amateur 3Dan (in 2009), however I rediscovered the joy of it recently. 
 - Competitive Programming (Retired): [<font color="#FF8C00">LiuRunkY</font>](https://codeforces.com/profile/LiuRunkY) (Codeforces), some tutorials (in Chinese) for algorithms and data structures available in [LiuRunky@cnblogs](https://www.cnblogs.com/LiuRunky).
 - Rhythm Game (AFK): [LiuRunky](https://osu.ppy.sh/users/6172732) (Osu!Mania), 4K 10Dan (in 2020), 7K 1Dan (in 2023). My favorite music composer is ginkiha.
+- Cooking: Lately, I prepare meals for myself every day. I find this process quite interesting, and consider it as some sort of black-box optimization (just kidding).
