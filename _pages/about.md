@@ -39,12 +39,12 @@ If you are interested in my background or skills, feel free to [send an email](m
 
 # 📖 Educations
 - *2022.09 - 2025.06*, [Nanjing University](https://www.nju.edu.cn/), Artificial Intelligence, M.Sc.
-- *2018.09 - 2022.06*, [Southeast University](https://www.seu.edu.cn/), Computer Science and Engineering, B.E.
+- *2018.09 - 2022.06*, [Southeast University](https://www.seu.edu.cn/), Computer Science and Engineering, B.Eng.
 - *2012.09 - 2018.06*, [Nanjing Foreign Language School](http://www.nfls.com.cn/), middle & high school.
 
 # 💻 Experiences
-- *2025.02 - present*, Research Internship/Assistant, working with Prof. [Zhijiang Guo](https://cartus.github.io/) from [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/).
-- *2024.05 - 2024.09*, Internship for Algorithm Engineer, Tencent Shanghai. Working on parallel speedup of text-to-video generative models.
+- *2025.02 - present*, Research Intern/Assistant, working with Prof. [Zhijiang Guo](https://cartus.github.io/) from [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/).
+- *2024.05 - 2024.09*, Intern for Algorithm Engineer, Tencent Shanghai. Working on parallel speedup of text-to-video generative models.
 
 {% comment %}
 # 🔥 News 
