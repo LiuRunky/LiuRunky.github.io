@@ -36,15 +36,16 @@ If you are interested in my background or skills, feel free to [send an email](m
 
 
 
+# 💻 Experiences
+- *2025.02 - present*, Research Intern/Assistant, working with Prof. [Zhijiang Guo](https://cartus.github.io/) from [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). I am exploring the capability of LLMs on generating correct and efficient codes.
+- *2024.05 - 2024.09*, Intern for Algorithm Engineer, Tencent Shanghai. Working on parallel speedup of text-to-video generative models.
+
 
 # 📖 Educations
 - *2022.09 - 2025.06*, [Nanjing University](https://www.nju.edu.cn/), Artificial Intelligence, M.Sc.
 - *2018.09 - 2022.06*, [Southeast University](https://www.seu.edu.cn/), Computer Science and Engineering, B.Eng.
 - *2012.09 - 2018.06*, [Nanjing Foreign Language School](http://www.nfls.com.cn/), middle & high school.
 
-# 💻 Experiences
-- *2025.02 - present*, Research Intern/Assistant, working with Prof. [Zhijiang Guo](https://cartus.github.io/) from [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/).
-- *2024.05 - 2024.09*, Intern for Algorithm Engineer, Tencent Shanghai. Working on parallel speedup of text-to-video generative models.
 
 {% comment %}
 # 🔥 News 
@@ -100,7 +101,7 @@ If you are interested in my background or skills, feel free to [send an email](m
 
 # 👾 Hobbies
 - Drawing: You can find my artworks from [LiuRunkY@pixiv](https://www.pixiv.net/users/16552180) (SAI2 + WACOM CTL-472).
-- Sports: Running, table tenis, basketball, tenis, swimming, football... Current PBs for running: 11'33'' (3km), 19'57'' (5km), 48'14'' (1/4-Marathon). My current goal is to complete a half-Marathon race before 2026.
+- Sports: Running, table tenis, basketball, tenis, swimming, football... Current PBs for running: 11'33'' (3km), 19'57'' (5km), 45'12'' (1/4-Marathon). My current goal is to complete a half-Marathon race before 2026.
 - Go Chess: Amateur 3Dan (in 2009), however I rediscovered the joy of it recently. 
 - Competitive Programming (Retired): [<font color="#FF8C00">LiuRunkY</font>](https://codeforces.com/profile/LiuRunkY) (Codeforces), some tutorials (in Chinese) for algorithms and data structures available in [LiuRunky@cnblogs](https://www.cnblogs.com/LiuRunky).
 - Rhythm Game (AFK): [LiuRunky](https://osu.ppy.sh/users/6172732) (Osu!Mania), 4K 10Dan (in 2020), 7K 1Dan (in 2023). My favorite music composer is ginkiha.
