@@ -101,7 +101,7 @@ If you are interested in my background or skills, feel free to [send an email](m
 
 # 👾 Hobbies
 - Drawing: You can find my artworks from [LiuRunkY@pixiv](https://www.pixiv.net/users/16552180) (SAI2 + WACOM CTL-472).
-- Sports: Running, table tenis, basketball, tenis, swimming, football... Current PBs for running: 11'33'' (3km), 19'57'' (5km), 45'12'' (1/4-Marathon). My current goal is to complete a half-Marathon race before 2026.
+- Sports: Running, table tenis, basketball, tenis, swimming, football... Current PBs for running: 11'33'' (3km), 19'26'' (5km), 45'12'' (1/4-Marathon). My current goal is to complete a half-Marathon race before 2026.
 - Go Chess: Amateur 3Dan (in 2009), however I rediscovered the joy of it recently. 
 - Competitive Programming (Retired): [<font color="#FF8C00">LiuRunkY</font>](https://codeforces.com/profile/LiuRunkY) (Codeforces), some tutorials (in Chinese) for algorithms and data structures available in [LiuRunky@cnblogs](https://www.cnblogs.com/LiuRunky).
 - Rhythm Game (AFK): [LiuRunky](https://osu.ppy.sh/users/6172732) (Osu!Mania), 4K 10Dan (in 2020), 7K 1Dan (in 2023). My favorite music composer is ginkiha.
