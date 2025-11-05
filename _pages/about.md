@@ -28,7 +28,7 @@ Specifically, I am interested in LLM for code generation, which involves intensi
 
 I obtained my M.Sc. degree in Artificial Intelligence at Nanjing University, where I were fortunate to be advised by Prof. [Lijun Zhang](https://ai.nju.edu.cn/zlj/index.htm) from the [LAMDA group](https://www.lamda.nju.edu.cn/MainPage.ashx). 
 My research focused on designing optimization algorithms with provable theoretical guarantees. 
-Prior to this, I obtained my B.E. degree in Computer Science and Engineering from Southeast University in 2022. 
+Prior to this, I obtained my B.Eng. degree in Computer Science and Engineering from Southeast University in 2022. 
 
 I stay open to connections and collaborations. 
 If you are interested in my background or skills, feel free to [send an email](mailto:liurunky@gmail.com) and discuss how I can contribute to your objective.
@@ -93,7 +93,7 @@ If you are interested in my background or skills, feel free to [send an email](m
 # 🏅 Honors and Awards
 - *2025.04*, Outstanding graduate of Nanjing University.
 - *2024.10*, Bosch scholarship.
-- *2021.05*, 2020-2021 International Collegiate Programming Contest (ICPC) world finalist, team Southeast U: Kokoronashi (4th in Yinchuan, 7th in Shenyang). 
+- *2021.05*, 2020-2021 ICPC world finalist, team Southeast U: Kokoronashi. 
 - *2019.10*, National scholarship.
 
 # 💬 Academic Service
