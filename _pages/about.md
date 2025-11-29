@@ -26,9 +26,9 @@ At present, I am visiting LARK@HKUST(GZ) as a research assistant, working with P
 I have been excited about the mechanism of Large Language Models (LLMs) and their applications.
 Specifically, I am interested in LLM for code generation, which involves intensive reasoning, planning and translation between natural language and programming code.
 
-I obtained my M.Sc. degree in Artificial Intelligence at Nanjing University, where I were fortunate to be advised by Prof. [Lijun Zhang](https://ai.nju.edu.cn/zlj/index.htm) from the [LAMDA group](https://www.lamda.nju.edu.cn/MainPage.ashx). 
+I obtained my M.Sc. degree in Computer Science and Technology at Nanjing University, where I were fortunate to be advised by Prof. [Lijun Zhang](https://ai.nju.edu.cn/zlj/index.htm) from the [LAMDA group](https://www.lamda.nju.edu.cn/MainPage.ashx). 
 My research focused on designing optimization algorithms with provable theoretical guarantees. 
-Prior to this, I obtained my B.Eng. degree in Computer Science and Engineering from Southeast University in 2022. 
+Prior to this, I obtained my B.Eng. degree in Computer Science and Technology from Southeast University in 2022. 
 
 I stay open to connections and collaborations. 
 If you are interested in my background or skills, feel free to [send an email](mailto:liurunky@gmail.com) and discuss how I can contribute to your objective.
@@ -42,8 +42,8 @@ If you are interested in my background or skills, feel free to [send an email](m
 
 
 # 📖 Educations
-- *2022.09 - 2025.06*, [Nanjing University](https://www.nju.edu.cn/), Artificial Intelligence, M.Sc.
-- *2018.09 - 2022.06*, [Southeast University](https://www.seu.edu.cn/), Computer Science and Engineering, B.Eng.
+- *2022.09 - 2025.06*, [Nanjing University](https://www.nju.edu.cn/), Computer Science and Technology, M.Sc.
+- *2018.09 - 2022.06*, [Southeast University](https://www.seu.edu.cn/), Computer Science and Technology, B.Eng.
 - *2012.09 - 2018.06*, [Nanjing Foreign Language School](http://www.nfls.com.cn/), middle & high school.
 
 
@@ -98,9 +98,10 @@ If you are interested in my background or skills, feel free to [send an email](m
 
 # 💬 Academic Service
 - Reviewer: ICLR'2025, 2026
+- Volunteer: AI4Math@ICML'2025
 
 # 👾 Hobbies
-- Drawing: You can find my artworks from [LiuRunkY@pixiv](https://www.pixiv.net/users/16552180) (SAI2 + WACOM CTL-472).
+- Drawing: You can find my artworks from [LiuRunkY](https://www.pixiv.net/users/16552180) (Pixiv). I am drawing with SAI2 + WACOM CTL-472.
 - Sports: Running, table tenis, basketball, tenis, swimming, football... Current PBs for running: 11'10'' (3km), 19'20'' (5km), 45'12'' (1/4-Marathon). My current goal is to complete a half-Marathon race before 2026.
 - Go Chess: Amateur 3Dan (in 2009), however I rediscovered the joy of it recently. 
 - Competitive Programming (Retired): [<font color="#FF8C00">LiuRunkY</font>](https://codeforces.com/profile/LiuRunkY) (Codeforces), some tutorials (in Chinese) for algorithms and data structures available in [LiuRunky@cnblogs](https://www.cnblogs.com/LiuRunky).
